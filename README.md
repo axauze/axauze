@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cisco • MikroTik • FortiGate • Linux • Python • Laravel**
 
-- 👯 I’m looking to collaborate on **Network & Cybersecurity Projects**
+- 👯 I’m looking to collaborate on **Network 
 
 - 🤝 I’m looking for help with **Advanced Network Security & Automation**
 
