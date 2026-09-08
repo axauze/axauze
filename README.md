@@ -28,6 +28,10 @@
 [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=fade&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fseab-kaoz-8576813b4%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios)](https://www.linkedin.com/in/seab-kaoz-8576813b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 ![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&animation=fade&link=https%3A%2F%2Ft.me%2Fk4o_meme)
 ![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=fade&link=https%3A%2F%2Ft.me%2Fk4o_meme)
+[![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&animation=fade&link=kao_sys)](kao_sys)
+[![x](https://www.readmecodegen.com/api/social-icon?name=x&animation=fade&color=%23ffffff&link=https%3A%2F%2Fx.com%2Fattackerzi65692%3Fs%3D11)](https://x.com/attackerzi65692?s=11)
+[![tiktok](https://www.readmecodegen.com/api/social-icon?name=tiktok&animation=fade&color=%23ffffff&link=https%3A%2F%2Fwww.tiktok.com%2F%40kaosys_)](https://www.tiktok.com/@kaosys_)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=axauze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
