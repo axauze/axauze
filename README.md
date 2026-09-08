@@ -20,6 +20,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![ubuntu](https://www.readmecodegen.com/api/social-icon?name=ubuntu&animation=fade)
+![linux](https://www.readmecodegen.com/api/social-icon?name=linux&animation=fade&color=%23ffffff)
+![windows](https://www.readmecodegen.com/api/social-icon?name=windows&animation=fade)
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&animation=fade)
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&animation=fade)
+![laravel](https://www.readmecodegen.com/api/social-icon?name=laravel&animation=fade)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&animation=fade)
+![aws](https://www.readmecodegen.com/api/social-icon?name=aws&animation=fade)
+![networkWired](https://www.readmecodegen.com/api/social-icon?name=networkWired&animation=fade&color=%23ffffff)
 
 <h3 align="left">Contact me with</h3> 
 
