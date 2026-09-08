@@ -27,7 +27,7 @@
 ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&animation=fade&link=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19bupbTQya%2F%3Fmibextid%3DwwXIfr)
 [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=fade&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fseab-kaoz-8576813b4%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios)](https://www.linkedin.com/in/seab-kaoz-8576813b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 ![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&animation=fade&link=https%3A%2F%2Ft.me%2Fk4o_meme)
-![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=fade&link=https%3A%2F%2Ft.me%2Fk4o_meme)(https://t.me/k4o_meme)
+![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=fade&link=https%3A%2F%2Ft.me%2Fk4o_meme)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=axauze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
