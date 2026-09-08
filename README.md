@@ -31,6 +31,7 @@
 [![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&animation=fade&link=kao_sys)](kao_sys)
 [![x](https://www.readmecodegen.com/api/social-icon?name=x&animation=fade&color=%23ffffff&link=https%3A%2F%2Fx.com%2Fattackerzi65692%3Fs%3D11)](https://x.com/attackerzi65692?s=11)
 [![tiktok](https://www.readmecodegen.com/api/social-icon?name=tiktok&animation=fade&color=%23ffffff&link=https%3A%2F%2Fwww.tiktok.com%2F%40kaosys_)](https://www.tiktok.com/@kaosys_)
+[![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&animation=fade&color=%23ffffff&link=seabkao%40gmail.com)](seabkao@gmail.com)
 
 
 # 📊 GitHub Stats:
