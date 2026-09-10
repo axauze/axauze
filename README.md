@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Network Security Lab**
 
-- 🌱 I’m currently learning **Cisco • MikroTik • FortiGate • Linux • Python • Laravel**
+- 🌱 I’m currently learning **Cisco • MikroTik • FortiGate • Linux • coding**
 
 - 👯 I’m looking to collaborate on **Network 
 
