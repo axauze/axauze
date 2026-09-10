@@ -19,24 +19,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-![ubuntu](https://www.readmecodegen.com/api/social-icon?name=ubuntu&animation=fade)
-![linux](https://www.readmecodegen.com/api/social-icon?name=linux&animation=fade&color=%23ffffff)
-![windows](https://www.readmecodegen.com/api/social-icon?name=windows&animation=fade)
-![css3](https://www.readmecodegen.com/api/social-icon?name=css3&animation=fade)
-![database](https://www.readmecodegen.com/api/social-icon?name=database&animation=fade&color=%23ffffff)
-![html5](https://www.readmecodegen.com/api/social-icon?name=html5&animation=fade)
-![laravel](https://www.readmecodegen.com/api/social-icon?name=laravel&animation=fade)
-![react](https://www.readmecodegen.com/api/social-icon?name=react&animation=fade)
-![aws](https://www.readmecodegen.com/api/social-icon?name=aws&animation=fade)
-![networkWired](https://www.readmecodegen.com/api/social-icon?name=networkWired&animation=fade&color=%23ffffff)
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9b3aed4d-c09b-4e27-b861-936d93aa518b" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1dd268ad-5898-4316-a664-2875b2a00d65" />
-
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d4852222-ba4e-4f94-b4f2-cafc5612bf4e" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7a285662-d812-4eec-8c99-5dc577ef2ed1" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d7fd9fe7-3dcf-4988-af9e-2ea757c39af3" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4e747774-866a-48d3-99e7-6c9d96f2ac3a" />
-
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e166aa8b-8ecb-4c7f-9228-bf9141eb5597" />
 
 
