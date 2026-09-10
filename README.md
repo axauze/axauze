@@ -30,7 +30,7 @@
 ![aws](https://www.readmecodegen.com/api/social-icon?name=aws&animation=fade)
 ![networkWired](https://www.readmecodegen.com/api/social-icon?name=networkWired&animation=fade&color=%23ffffff)
 
-<img width="513" height="512" alt="image" src="https://github.com/user-attachments/assets/9b3aed4d-c09b-4e27-b861-936d93aa518b" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9b3aed4d-c09b-4e27-b861-936d93aa518b" />
 
 
 
