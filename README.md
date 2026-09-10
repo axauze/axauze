@@ -33,7 +33,7 @@
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2d78496a-2558-4274-9f7e-085e1960fa7d" />
 
-<img width="200" height="512" alt="image" src="https://github.com/user-attachments/assets/7f398730-da4a-407a-a165-5783b528d013" />
+<img width="200" height="52" alt="image" src="https://github.com/user-attachments/assets/7f398730-da4a-407a-a165-5783b528d013" />
 
 
 
